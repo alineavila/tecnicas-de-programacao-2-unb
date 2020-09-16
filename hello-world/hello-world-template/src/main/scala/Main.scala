@@ -1,3 +1,3 @@
 object Main extends App {
-  println("Hello, World!")
+  println("eae, toda classe que extende a classe App é o ponto inicial da aplicação") 
 }
