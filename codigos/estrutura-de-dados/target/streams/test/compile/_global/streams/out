@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\liine\OneDrive\Estudos\UnB\1 2020\Tecnicas de Programacao 2\codigos\estrutura-de-dados\src\test\scala\ArrayListTest.scala:5:29: not found: type funsuite[0m
+[0m[[0m[31merror[0m] [0m[0mclass ArrayListTest extends funsuite {[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\liine\OneDrive\Estudos\UnB\1 2020\Tecnicas de Programacao 2\codigos\estrutura-de-dados\src\test\scala\ArrayListTest.scala:6:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("testando o ambiente"){[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
